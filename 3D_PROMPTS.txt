@@ -1,0 +1,52 @@
+RoboPets - prompts for AI 3D generators (Meshy, Tripo, CSM, Rodin, etc.)
+=====================================================================
+Use one prompt per model. Ask for a GLB, T-pose (robot) or a clean side view (vehicle),
+PBR materials, game-ready topology. Both are ORIGINAL designs - keep them free of any
+existing franchise logos, names or signature features.
+
+--- BULWARK (robot mode) -------------------------------------------------------------
+Original heavy-duty mech robot, stylized hard-surface cartoon style with clean ink-like
+edges. Broad, blocky silhouette, about 3.5 m tall, T-pose. Deep crimson armor plates over
+dark graphite and gunmetal mechanical joints, brushed-steel details. Chest made of two
+angled crimson plates with a glowing amber energy core visible in the gap between them.
+Crimson helmet with a graphite center crest fin, silver face plate, angry V-shaped glowing
+amber visor, small round steel ear pods. Huge crimson shoulder pauldrons shaped like truck
+wheel-arch fenders, with a chunky off-road tire mounted on the outside of each shoulder.
+Forearms carry flat crimson armored shields (truck doors). Thick legs with crimson thigh
+and shin armor, an off-road tire on the outside of each thigh and each calf (6 tires
+total). Backpack made of a truck cab roof, slanted windshield and a roof light bar with
+amber lamps. A forearm-mounted orange plasma blade on the right arm (glowing, emissive).
+Feet with crimson toe caps and small thruster nozzles on the soles.
+
+--- BULWARK (vehicle mode) -----------------------------------------------------------
+Original 6x6 armored off-road expedition truck, stylized cartoon hard-surface, about 4.2 m
+long. Crimson body over graphite chassis, six chunky off-road tires with dark rims.
+Short sloped hood split down the middle, graphite grille with vertical steel slats and two
+amber headlights, heavy gunmetal bumper. Tall cab with a slanted dark-tinted windshield,
+small side windows, crimson doors with a graphite stripe, amber light bar on the roof.
+Flat armored rear deck with raised ribs, crimson side panels with graphite wheel-arch
+flares, rear face with red tail lamps and a gunmetal rear bumper. No logos.
+
+--- VOLT (robot mode) ----------------------------------------------------------------
+Original agile scout mech robot, stylized hard-surface cartoon style with clean ink-like
+edges, about 2.8 m tall, slim athletic proportions, T-pose. Glossy teal armor with white
+thighs and helmet, carbon-black joints and core, gunmetal limbs. Chest made of two angled
+teal plates (sports-car hood halves) with small black vents and a glowing ice-white core
+between them. Sleek white helmet with a single forward-swept teal fin on top, carbon face
+mask, glowing magenta wraparound visor, small teal cheek fins. Teal wheel-arch pauldrons
+with a low-profile sports tire on the outside of each shoulder; another tire on the outside
+of each calf. Forearms carry long teal door panels with a white stripe and a tiny mirror
+fin. Backpack formed by a dark glass windshield and carbon roof. Left forearm carries a
+twin-barrel wrist blaster with magenta muzzle glow. Heels carry rear-bumper plates with
+magenta-red light strips and small carbon spoiler fins.
+
+--- VOLT (vehicle mode) --------------------------------------------------------------
+Original low wedge-shaped mid-engine sports coupe, stylized cartoon hard-surface, about
+3.0 m long. Glossy teal body, carbon-black roof, splitter, side skirts and diffuser, dark
+tinted glass canopy. Sharp nose with thin ice-white LED headlight strips and a black
+intake, raised front fenders, teal doors with a thin white side stripe, side air intakes in
+front of the rear wheels, louvered engine cover, full-width magenta-red tail light strip,
+small carbon rear wing. Four sport tires with silver multi-spoke rims. No logos.
+
+Tip: generate robot and vehicle separately, then keep the color palette identical so the
+transformation reads as the same character.
